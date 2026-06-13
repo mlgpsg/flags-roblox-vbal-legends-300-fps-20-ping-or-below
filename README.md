@@ -1,7 +1,7 @@
 # flags-roblox-vbal-legends-300-fps-20-ping-or-below
 roblox
 legal flags for comp vbl,4.2, 
-any battleground games comptatible
+any battleground games 
 next line is the flags
 {
   "FFlagUseDefaultHitboxValues": "False",
