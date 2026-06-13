@@ -5,7 +5,6 @@ roblox
 
 {
   "FFlagUseDefaultHitboxValues": "False",
-  "FFlagIncreaseHitbox": "True",
   "FFlagEnableFastDash": "True",
   "FStringTerrainMaterialTable2022": "",
   "FStringTerrainMaterialTablePre2022": "",
